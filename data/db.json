@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/1.jpg",
+      "creatorName": "AB De villiars",
+      "location": "las vegas,naveda",
+      "createdAt": "September 14, 2022",
+      "postImageUrl": "https://cdn.shopify.com/s/files/1/0356/4533/articles/Depositphotos_161908396_s-2019_999x.jpg?v=1554916724",
+      "postDescription": "Hey there,Have a nice day...",
+      "likes": 123,
+      "comments": [
+        {
+          "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/2.jpg",
+          "creatorName": "David miller",
+          "createdAt": "September 14, 2022",
+          "comment": "Nice"
+        }
+      ],
+      "isFavourite": false
+    },
+    {
+      "id": 2,
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/2.jpg",
+      "creatorName": "David miller",
+      "location": "florida,miami",
+      "createdAt": "September 15, 2022",
+      "postImageUrl": "https://www.onceinalifetimejourney.com/wp-content/uploads/2018/06/I-am-just-a-cupcake-looking-for-my-stud-muffin-5.png",
+      "postDescription": "Hello All,Start your day with smile",
+      "likes": 234,
+      "comments": [
+        {
+          "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/1.jpg",
+          "creatorName": "AB De villiars",
+          "createdAt": "September 15, 2022",
+          "comment": "Nice to see you again."
+        },
+        {
+          "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/7.jpg",
+          "creatorName": "Sandra Adams",
+          "createdAt": "January 15, 2023",
+          "comment": "Have a nice day."
+        }
+      ],
+      "isFavourite": false
+    },
+    {
+      "id": 3,
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/3.jpg",
+      "creatorName": "Cindy Baker",
+      "location": "florida,miami",
+      "createdAt": "September 16, 2022",
+      "postImageUrl": "https://cdn.quotesgram.com/img/81/87/585035831-Beautiful-Inspirational-Typography-Quotes-Instagram-32.jpg",
+      "postDescription": "Be your own kind of beautiful.",
+      "likes": 345,
+      "comments": [
+        {
+          "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/1.jpg",
+          "creatorName": "AB De villiars",
+          "createdAt": "September 16, 2022",
+          "comment": " Hey Cindy,Whats up..."
+        },
+        {
+          "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/6.jpg",
+          "creatorName": "Peter parker",
+          "createdAt": "February 16, 2022",
+          "comment": "Hello..."
+        }
+      ],
+      "isFavourite": false
+    },
+    {
+      "id": 4,
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/7.jpg",
+      "creatorName": "Sandra Adams",
+      "location": "Rome,italy",
+      "createdAt": "September 17, 2022",
+      "postImageUrl": "https://blog.hootsuite.com/wp-content/uploads/2022/06/Instagram-Apps-Cover-Photo.png",
+      "postDescription": "I'm a fashion Girl...",
+      "likes": 120,
+      "comments": [
+        {
+          "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/2.jpg",
+          "creatorName": "David miller",
+          "createdAt": "September 17, 2022",
+          "comment": "Hello Sandra..."
+        }
+      ],
+      "isFavourite": false
+    }
+  ],
+  "stories": [
+    {
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/1.jpg",
+      "creatorName": "AB De villiars",
+      "stories": [
+        {
+          "url": "https://images.unsplash.com/photo-1535966953907-e3a81e258148?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bGFwdG9wJTIwd2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "length": 10
+        }
+      ],
+      "isViewed": false,
+      "createdAt": "10:00 am"
+    },
+    {
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/2.jpg",
+      "creatorName": "David miller",
+      "stories": [
+        {
+          "url": "https://wallpaperaccess.com/full/6895209.jpg",
+          "length": 10
+        }
+      ],
+      "isViewed": false,
+      "createdAt": "10:30 am"
+    },
+    {
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/3.jpg",
+      "creatorName": "Cindy Baker",
+      "stories": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__480.jpg",
+          "length": 10
+        }
+      ],
+      "isViewed": false,
+      "createdAt": "9:00 am"
+    },
+    {
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/7.jpg",
+      "creatorName": "Sandra Adams",
+      "stories": [
+        {
+          "url": "https://www.teahub.io/photos/full/134-1347840_wallpaper-for-laptop-fresh-wallpaper-for-laptop.png",
+          "length": 15
+        }
+      ],
+      "isViewed": false,
+      "createdAt": "11:00 am"
+    },
+    {
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/4.jpg",
+      "creatorName": "Ali Conners",
+      "stories": [
+        {
+          "url": "https://swall.teahub.io/photos/small/26-265609_amazing-nature-images-amazing-nature.jpg",
+          "length": 20
+        }
+      ],
+      "isViewed": false,
+      "createdAt": "01:00 pm"
+    },
+    {
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/5.jpg",
+      "creatorName": "Sujay mittal",
+      "stories": [
+        {
+          "url": "https://i.pinimg.com/originals/91/ab/cb/91abcb18d2d074571d1056e75f58c097.png",
+          "length": 10
+        }
+      ],
+      "isViewed": false,
+      "createdAt": "02:00 pm"
+    },
+    {
+      "creatorProfileImageUrl": "https://material-ui.com/static/images/avatar/6.jpg",
+      "creatorName": "Peter parker",
+      "stories": [
+        {
+          "url": "https://c4.wallpaperflare.com/wallpaper/810/946/371/travel-to-vietnam-halong-bay-boats-mountains-clouds-wallpaper-preview.jpg",
+          "length": 10
+        }
+      ],
+      "isViewed": false,
+      "createdAt": "03:00 pm"
+    }
+  ]
+}
